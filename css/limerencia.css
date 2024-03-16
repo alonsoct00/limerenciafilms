@@ -1,0 +1,318 @@
+body {
+    background-color: #fff;
+    color: #000;
+
+}
+
+body a {
+    color: #3c3c3c;
+}
+
+body a:hover,
+footer a:hover {
+    text-decoration: underline;
+}
+
+ul.social-list.list-unstyled li {
+    list-style-type: none !important;
+    font-size: 26px !important;
+}
+
+ul.social-list.list-unstyled li a, ul.social-list.list-unstyled li a:hover, ul.social-list.list-unstyled li a:focus{
+ color: #000;
+ text-decoration: none;
+}
+
+.social-list a span {
+    font-size: 26px;
+}
+
+#footercredits {
+    font-weight: lighter;
+    padding: 16px 8px;
+}
+
+#footercredits p {
+    margin: 0px auto;
+    color: rgba(0, 0, 0, 0.5);
+    font-size: 10px;
+}
+
+.ftco-footer p {
+    color: rgba(0, 0, 0, 0.5) !important;
+}
+
+#footercredits p a {
+   color: rgba(0, 0, 0, 0.5);
+}
+
+#ftco-navbar ul.dropdown-menu {
+    background: #fff !important;
+    box-shadow: none !important;
+    padding-top: 0px;
+    margin-top: 0px;
+}
+
+#ftco-navbar ul.dropdown-menu.show li.dropdown-item {
+    display: block;
+    width: 100%;
+    padding: 0px 12px;
+    line-height: normal;
+    clear: both;
+    text-align: inherit;
+    white-space: nowrap;
+    background-color: transparent;
+    border: 0;
+}
+
+
+#ftco-navbar ul.dropdown-menu li.dropdown-item:hover {
+    background: transparent;
+}
+
+#ftco-navbar ul.dropdown-menu li a,
+#ftco-navbar.scrolled ul.dropdown-menu li a {
+    font-family: inherit;
+    padding: 0px 10px !important;
+    margin-bottom: 7px;
+    font-family: "Open Sans", Arial, sans-serif;
+    font-size: 12px;
+    font-weight: 600;
+    text-transform: uppercase
+}
+
+.limerencialogo {
+    display: block;
+    width: 100%;
+    max-width: 200px;
+}
+
+.limerencialogo img {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+.icon-culture {
+    width: 16px;
+    display: inline-block;
+    margin-right: 4px;
+}
+
+.icon-culture img {
+    width: 100%;
+    height: auto;
+}
+
+
+.ftco-section p {
+    color: #000;
+}
+
+
+#homeTestimony .testimony-wrap .user-img {
+    margin: 0px auto !important;
+}
+
+#homeTestimony .testimony-wrap .text * {
+    color: #000;
+}
+
+.ftco-section .sermon-wrap .img {
+    width: 100%;
+    height: 100%;
+    background-size: contain;
+    background-position-x: right;
+}
+
+.ftco-section .sermon-wrap .meta span {
+    color: #000;
+}
+
+#eventosLimerencia {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+#eventosLimerencia .event-wrap {
+    flex: 0 0 45%;
+    align-self: baseline;
+
+}
+
+#eventosLimerencia .event-wrap .text h2 a {
+    color: #000;
+}
+
+#eventosLimerencia .event-wrap .text .meta span {
+    color: #ededed;
+}
+
+#dataTextCard p {
+    font-weight: lighter;
+}
+
+#dataTextCard ul li {
+    list-style-type: square;
+    font-size: 14px;
+    font-weight: lighter;
+}
+
+#dataCard p {
+    font-weight: lighter;
+}
+
+#dataCard li a {
+    color: #999;
+}
+
+#dataCard li a.active {
+    color: #131313;
+}
+
+#dataCardContent {
+    padding: 24px 0px;
+
+}
+
+#dataCardContent p {
+    font-weight: lighter;
+    font-size: 12px;
+}
+
+#dataCardContent h3 {
+    color: #000;
+}
+
+#dataCardContent #festivals {
+    font-weight: lighter;
+    font-size: 12px;
+}
+
+#dataCardContent #festivals h3 {
+    margin-top: 16px;
+    margin-bottom: 0px;
+}
+
+
+#dataCardContent ul li {
+    font-size: 12px;
+    font-weight: lighter;
+}
+
+#dataCardContent #awards ul li {
+    list-style-type: none;
+    margin-bottom: 8px;
+
+}
+
+#dataCardContent #awards ul li:before {
+    content: "\f091";
+    font-family: 'icomoon' !important;
+    color: #f8f15c;
+    margin-right: 4px;
+}
+
+#dataCardContent #press ul li {
+    margin-bottom: 8px;
+    list-style-type: none;
+}
+
+#dataCardContent #press ul li:before {
+    display: inline-block;
+    content: "\f1ea";
+    font-family: 'icomoon' !important;
+    margin-right: 8px;
+    line-height: normal;
+    font-size: 14px;
+    list-style-type: none;
+}
+
+#dataCardContent #press ul li a {
+    color: #000;
+}
+
+#NewsWrapper .newsItem .text h3 a {
+    color: #000;
+
+}
+
+#NewsWrapper .newsItem .desc p {
+    color: #000;
+    font-weight: lighter;
+}
+
+#FestivalsWrapper {
+    display: block;
+}
+
+
+#FestivalsWrapper h3{
+    color: #000;
+}
+
+#FestivalsWrapper p{
+color: #000;
+    font-weight: lighter;
+}
+
+#FestivalsWrapper .itemFestival{
+        padding: 20px 24px;
+        margin-bottom: 24px;
+}
+#FestivalsWrapper .itemFestival h3{
+    color: #000;
+}
+
+#FestivalsWrapper .itemFestival p{
+    color: #000;
+}
+
+#camarista_trailer {
+    margin: 0px auto;
+    width: 100%;
+    min-height: 50vh;
+}
+
+#camarista_trailer video{
+    width: 100%;
+    height: 100%;
+}
+
+
+@media only screen and (max-device-width : 768px),
+(max-width: 768px) {
+
+    #ftco-nav ul.dropdown-menu.show li a {
+        font-family: inherit;
+        padding: 4px 0px !important;
+    }
+
+
+    .hero-wrap.js-fullheight.hero-wrap-2 {
+        max-height: 50vh;
+        height: auto !important;
+    }
+
+    .hero-wrap.hero-wrap-2 .slider-text {
+
+        overflow: hidden;
+        max-height: 50vh;
+    }
+
+    #posterIMG {
+        display: block;
+        width: 100%;
+        height: 300px;
+    }
+
+    #posterIMG .img {
+        background-position: center center;
+    }
+
+    #imgAboutus {
+        display: none !important;
+    }
+}
